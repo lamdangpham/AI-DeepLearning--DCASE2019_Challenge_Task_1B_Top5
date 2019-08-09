@@ -1,5 +1,5 @@
 # CNN For Task 1A/B DCASE2019 challenge
-http://dcase.community/challenge2019/task-acoustic-scene-classification-results-a
+http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-a
 http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-b
 
 # Hierarchy:
