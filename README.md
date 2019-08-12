@@ -19,4 +19,4 @@ http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-
     http://dcase.community/challenge2019/task-acoustic-scene-classification-results-b#teams-ranking    
 - Accuracy:
     + Dev set task 1A/B: 76.2/72.9
-    + Eva set task 1A/B: 78.8/72.8
+    + Eva set task 1A/B: 76.8/72.8
