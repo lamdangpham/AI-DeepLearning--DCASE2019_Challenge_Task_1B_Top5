@@ -1,4 +1,4 @@
-# CNN-Based and Multi-Spectrogram Input Applied For ASC - Task 1A/B DCASE2019 challenge
+# CNN-Based and Multi-Spectrogram Input Applied For ASC - Task 1B DCASE2019 challenge - Rank 5
 http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-a
 http://dcase.community/challenge2019/task-acoustic-scene-classification#subtask-b
 
